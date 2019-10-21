@@ -1,0 +1,8 @@
+---
+title: Sometimes, DevOps is a department
+published: false
+description: 
+tags: 
+---
+
+The frustration when we're not doing everything right immediately.
