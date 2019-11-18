@@ -27,4 +27,6 @@ Barring immediate existential threat, neither management nor Chris's developers 
 
 Done right, the DevOps department is both a compromise and a dipping-of-toes-in-the-water. Whether a company will ultimately transition to an fully automated, 100% test coverage, continuous everything future or not, certain techniques both lay the groundwork for the One True DevOps and reap immediate value for any organization. DevOps may not be a collection of technologies, but specific technologies like automated build pipelines, source control, change management tools, and testing automation provide real, immediate benefits whether they lead to a culture of honest, fail-faster camraderie or not.
 
+That's not to say that creating a DevOps department is a slam dunk. A successful DevOps department needs to be able to create an environment where developers expand their own responsibilities beyond source code and IT/operations views writing code as one of their core competencies. Fully-staffed DevOps departments can bootstrap these processes by working with more traditional departments (wording awk) while less successful DevOps departments can fall into the role of being "the ops guys that developers talk to directly."
 
+DevOps can be a department. If it's going to succeed in transforming the company, it can't be a silo. 
