@@ -14,5 +14,10 @@ It has to come from the leadership team.
 
 A couple of lessons I got from _The Phoenix Project_ that may not have been intended:
 
-* Management generally won't change things until you're 90 days away from the company being dismantled for parts.
+* Management generally won't change things their own jobs are in immediate jeopardy. Radical changes won't happen until you're 90 days away from the company being dismantled and sold off in parts.
 * Unless you're a manager (or Brent,) you don't get a name. Some of us are just "Chris's developers."
+
+As harsh as these conclusions may sound, they're almost certainly true to your organization's management. Because DevOps is first and foremost a culture, it needs buy-in from the top if it's going to work and implementing DevOps in spite of upper management is a near-impossible task.
+
+On the other hand, imposing DevOps from the top isn't much easier. A lot of the core philosophies buck our basic instincts. Prioritizing ease-of-deployment over customer-facing features requires a kind of forward-thinking that modern corporatism with its focus on the next quarter's profits discourages. "Rush to failure" is a career-level trust-fall that most organizations haven't earned. "Be open and honest. Risk your job to make the company better. Management has your back." is up there with "We're from the government and we're here to help."
+
