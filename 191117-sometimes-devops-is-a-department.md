@@ -29,4 +29,11 @@ Done right, the DevOps department is both a compromise and a dipping-of-toes-in-
 
 That's not to say that creating a DevOps department is a slam dunk. A successful DevOps department needs to be able to create an environment where developers expand their own responsibilities beyond source code and IT/operations views writing code as one of their core competencies. Fully-staffed DevOps departments can bootstrap these processes by working with more traditional departments (wording awk) while less successful DevOps departments can fall into the role of being "the ops guys that developers talk to directly."
 
-DevOps can be a department. If it's going to succeed in transforming the company, it can't be a silo. 
+DevOps can be a department. If it's going to succeed in transforming the company, it can't be a silo.
+
+## Research Links
+
+* [Martin Fowler: DevOps Culture](https://martinfowler.com/bliki/DevOpsCulture.html)
+* [Alistair Cockburn's wikipedia entry](https://en.wikipedia.org/wiki/Alistair_Cockburn)
+* [How Netflix Thinks of DevOps](https://www.youtube.com/watch?v=UTKIT6STSVM)
+* [Pluralsight's Understanding DevOps video series](https://app.pluralsight.com/paths/skills/understanding-devops)
