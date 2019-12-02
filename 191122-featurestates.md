@@ -4,6 +4,8 @@
 
 For effective tracking of work, all feature states should be solidly centered on "at rest," "work in progress," or "inventory." (Ready for vs In)
 
+WIP/Inventory is a meaningful metric that can be addressed for improvement (not like "effort points.")
+
 ## Example
 
 * New (At Rest) - Some tickets are just ideas for now.
